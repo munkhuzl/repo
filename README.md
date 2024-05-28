@@ -1,0 +1,2 @@
+# repo
+gogo.mn
